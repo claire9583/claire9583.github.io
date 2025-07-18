@@ -4,7 +4,8 @@ const playlist = [
     "/assets/audio/meowsongs/Just the mew of us.mp3",
     "/assets/audio/meowsongs/Earth Wind & Meower - September.mp3",
     "/assets/audio/meowsongs/Cats on Meows.mp3",
-    "/assets/audio/meowsongs/Meowh Klahoma - Jack Stauber.mp3"
+    "/assets/audio/meowsongs/Meowh Klahoma - Jack Stauber.mp3",
+    "/assets/audio/meowsongs/Buttercup - Jack Meowber.mp3"
 ];
 
 let currentTrack = 0;
