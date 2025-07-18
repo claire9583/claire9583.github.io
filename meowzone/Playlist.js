@@ -17,12 +17,34 @@ function playTrack(index) {
     audioElement.play();
 }
 
+function togglePause() {
+    if (audioElement.paused == true) {
+        audioElement.play();
+    } else {
+        audioElement.pause();
+    }
+}
+
 playTrack(currentTrack);
 
-audioElement.addEventListener("ended", () => {
-    currentTrack++;
+function incrementCurrentTrack() {
+    if (playlist.length > 0) {
+        currentTrack++;
+        if (currentTrack >= playlist.length) {
+            currentTrack = 0;
+        }
+        playTrack(currentTrack);
+    }
+}
+
+function removeCurrentTrack() {
+    playlist.splice(currentTrack, 1);
     if (currentTrack >= playlist.length) {
         currentTrack = 0;
     }
     playTrack(currentTrack);
+}
+
+audioElement.addEventListener("ended", () => {
+    incrementCurrentTrack()
 });
