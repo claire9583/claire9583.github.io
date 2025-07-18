@@ -9,4 +9,6 @@ this website hosts:
 - my photography for others to see.
 - other silly things i want it to host
 
+
+
 DONT READ THE CODE ITS REALLY BAD
