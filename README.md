@@ -10,8 +10,7 @@ this website hosts:
 - other silly things i want it to host
 
 .
-
+.
 .
 
-.
 DONT READ THE CODE ITS REALLY BAD
