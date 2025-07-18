@@ -14,7 +14,17 @@
 
     <audio id="meowPlayer" controls autoplay class="meowzoneaudio">
         <source id="audioSource" src="" type="audio/mpeg">
-    </audio>
+    </audio><br><br>
+
+    <button onclick="togglePause()" class="meowzonebutton">
+        pause/play!!!
+    </button><br>
+    <button onclick="incrementCurrentTrack()" class="meowzonebutton">
+        skip this song!!
+    </button><br>
+    <button onclick="removeCurrentTrack()" class="meowzonebutton">
+        i hate this song >:C (removes from playlist + skips)
+    </button>
 
     <div class="image-wrapper">
         <img class="meowzoneimage" src="/assets/images/guitarcat-nobg.png">
