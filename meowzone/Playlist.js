@@ -17,7 +17,7 @@ const playlist = [
     "/assets/audio/meowsongs/Temmeow Village.mp3",
     "/assets/audio/meowsongs/Meower Garden - Yoshi Island.mp3",
     "/assets/audio/meowsongs/Meowster Blue Sky.mp3",
-    "/assets/audio/meowsongs/DuckTales - The Moon Theme.mp3",
+    "/assets/audio/meowsongs/CatTails - The Meown Theme.mp3",
     "/assets/audio/meowsongs/Meower Meower Docks.mp3",
     "/assets/audio/meowsongs/Coconut Meowll.mp3",
     "/assets/audio/meowsongs/Lost Woods - The Legend of Meowda Ocarina of Time.mp3",
