@@ -4,3 +4,7 @@ This project is not licensed for any use. No permission is granted to copy, modi
 
 # sillywebsite
 my website :3
+
+this website hosts:
+- my photography for others to see.
+- other silly things i want it to host
