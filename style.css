@@ -96,6 +96,45 @@ body {
   }
 }
 
+.aboutclaire {
+  background-color: rgba(248, 108, 178,.9);
+  padding: 15px;
+  border-color: black;
+  border-width: 3px;
+  border-style: solid;
+}
+
+.aboutmelink:link {
+  color: rgb(92, 199, 88);
+  background-color: transparent;
+  text-decoration:underline;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.aboutmelink:visited {
+  color: rgb(92, 199, 88);
+  background-color: transparent;
+  text-decoration:underline;
+  text-decoration-style: dashed;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.aboutmelink:hover {
+  color: rgb(92, 199, 88);
+  background-color: transparent;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+.aboutmelink:active {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
 .photography {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -114,6 +153,8 @@ body {
   color: rgb(224, 83, 130);
   background-color: transparent;
   text-decoration:underline;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .homepagelink:visited {
@@ -121,6 +162,8 @@ body {
   background-color: transparent;
   text-decoration:underline;
   text-decoration-style: dashed;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .homepagelink:hover {
