@@ -45,6 +45,15 @@ function togglePause() {
 
 playTrack(currentTrack);
 
+function decrementCurrentTrack() {
+    if (playlist.length > 0) {
+        currentTrack--;
+        if (currentTrack < 0) {
+            currentTrack = playlist.length-1;
+        }
+        playTrack(currentTrack);
+    }
+}
 function incrementCurrentTrack() {
     if (playlist.length > 0) {
         currentTrack++;

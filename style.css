@@ -126,6 +126,8 @@ body {
   background-color: transparent;
   text-decoration: underline;
   text-decoration-style: wavy;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .aboutmelink:active {
@@ -133,6 +135,8 @@ body {
   background-color: transparent;
   text-decoration: underline;
   text-decoration-style: wavy;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .photography {
@@ -171,6 +175,8 @@ body {
   background-color: transparent;
   text-decoration: underline;
   text-decoration-style: wavy;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .homepagelink:active {
@@ -178,6 +184,8 @@ body {
   background-color: transparent;
   text-decoration: underline;
   text-decoration-style: wavy;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 img {
