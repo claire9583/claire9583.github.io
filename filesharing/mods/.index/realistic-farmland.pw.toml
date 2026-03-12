@@ -1,0 +1,16 @@
+filename = 'realistic-farmland-1.1+1.21.5.jar'
+name = 'Realistic Farmland'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '963397e1e6ca0ddf6b9aabc1024ac680a12e928e5f305e7bc597645e02f5621f3e5a58d1b51ef3c145ae015863128ef0b39f0f860f0931a145aee5f94e6f1b39'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dS1RzxTl/versions/48mHMLgm/realistic-farmland-1.1%2B1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'dS1RzxTl'
+version = '48mHMLgm'

@@ -1,0 +1,16 @@
+filename = 'illagerwarship-1.0.2-fabric-1.21.8.jar'
+name = 'Illager Warship'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b2c7c9a83ab293eaf1e59ba3946c736e4a2c8d5142514b69441585cdf47e39d4ad916e67af226973ac4334c28859561c6882e0e5e79e0eaa2502d3c86441b8e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tUpIHo95/versions/dZHF8ru0/illagerwarship-1.0.2-fabric-1.21.8.jar'
+
+[update.modrinth]
+mod-id = 'tUpIHo95'
+version = 'dZHF8ru0'

@@ -1,0 +1,16 @@
+filename = 'StrawStatues-v21.8.0-1.21.8-Fabric.jar'
+name = 'Straw Statues'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd1953435f3ea7c4984b2a62a20b4a3f1c67e9634c8090196bd48a46b026f1704a04c59688f9e639ded1bdea6b358abaa429ef09e27095e6a1b935f62915980c0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2fltysAl/versions/465YtmQj/StrawStatues-v21.8.0-1.21.8-Fabric.jar'
+
+[update.modrinth]
+mod-id = '2fltysAl'
+version = '465YtmQj'

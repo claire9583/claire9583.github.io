@@ -1,0 +1,16 @@
+filename = 'bookmark-1.1+1.21.6.jar'
+name = 'Bookmark'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2cbc0264dbc6fa2d92eff253547a063c811204b0cf0b859a42435499df6d1b07991f99b50dcde2902256799ecc609c5d8c65c3ec082454970465ec2092fc5b5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QcVGgiH5/versions/fSmmTnIq/bookmark-1.1%2B1.21.6.jar'
+
+[update.modrinth]
+mod-id = 'QcVGgiH5'
+version = 'fSmmTnIq'

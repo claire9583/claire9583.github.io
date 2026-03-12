@@ -1,0 +1,16 @@
+filename = 'vegan-mob-drops-4.8.jar'
+name = 'Vegan Mob Drops'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.10', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd09754c39cc183be07613bac8918e9b554dad33860e16a2e44d90031cab46461b4d7c548c9b10cf3ffa1885eee2dd22edb7ebc0890234d428a0584dc4cfe7026'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZrQkwH6G/versions/WmhAXvuM/vegan-mob-drops-4.8.jar'
+
+[update.modrinth]
+mod-id = 'ZrQkwH6G'
+version = 'WmhAXvuM'

@@ -1,0 +1,16 @@
+filename = 'longbooks-1.1+1.21.8.jar'
+name = 'Long Books'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f43464f501b1f41bfe23a04db7f507c4e0e18a0cb119b3bedfec85dc37ab53e78bfb02ae9971fcf309227890eb67d6b398e26f12265a66be31b5411a2e8806ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rONcvWzZ/versions/jkD30g9O/longbooks-1.1%2B1.21.8.jar'
+
+[update.modrinth]
+mod-id = 'rONcvWzZ'
+version = 'jkD30g9O'

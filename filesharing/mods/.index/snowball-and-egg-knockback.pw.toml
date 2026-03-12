@@ -1,0 +1,16 @@
+filename = 'snowballkb-1.5.1-1.21.5.jar'
+name = 'Snowball and Egg Knockback'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '998cfe6271164df2dd468b079b881a7b4fdb736755d10adbff7ef0526df920e376f93a02fb5ab6ef13b847ada6c36ddfba4bc2c0e400758c6124dbce2cbf6858'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lTnCsKKt/versions/75ggZcjJ/snowballkb-1.5.1-1.21.5.jar'
+
+[update.modrinth]
+mod-id = 'lTnCsKKt'
+version = '75ggZcjJ'

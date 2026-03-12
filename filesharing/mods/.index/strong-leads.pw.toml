@@ -1,0 +1,16 @@
+filename = 'strong-leads-1.1.0+1.21.8.jar'
+name = 'Strong Leads'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a486a754014507c82d2eab92de00705945f7e71d9c54c8bc4e82a94ce9a5ccaf58f010c78e772884eaf85321cc7122240e0e60dec27254e66ef9757fa6f82509'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BuedRdjG/versions/b9o0OeSo/strong-leads-1.1.0%2B1.21.8.jar'
+
+[update.modrinth]
+mod-id = 'BuedRdjG'
+version = 'b9o0OeSo'

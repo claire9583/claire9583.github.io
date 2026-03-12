@@ -1,0 +1,16 @@
+filename = 'longer_following_time-merged-1.21.8-1.1.0.jar'
+name = 'Longer Following Time'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f1d1e84f6e9d425349cb63d6339557a982d926e34ecf6450cf4824db9698f66b9e5fe5ca36e69bfd11cf2b5398c4fc9d080e45ec23a90568d2b95cb43b594a8f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aQBO03zj/versions/15YwOxma/longer_following_time-merged-1.21.8-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'aQBO03zj'
+version = '15YwOxma'

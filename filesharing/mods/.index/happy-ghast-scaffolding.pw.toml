@@ -1,0 +1,16 @@
+filename = 'happy-ghast-scaffolding-1.0.0.jar'
+name = 'Happy Ghast Scaffolding'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c911aa9edb04c26bd14b1a49a28251475de791d9161ef8d1f7171f3503859c3824e47fa2503f9962e2d5a24c33dc3ce3fe02d8150fa3fb56b11a95228de968fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/R50aBq2b/versions/oSGmeE5W/happy-ghast-scaffolding-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'R50aBq2b'
+version = 'oSGmeE5W'

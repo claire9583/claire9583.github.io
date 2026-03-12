@@ -1,0 +1,16 @@
+filename = 'advancementsfullscreen-mc1.21.8+1.3.jar'
+name = 'Advancements Fullscreen'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '507d3da2db3acf6e21191851d4c3392dd5214576c3197474a332f28a1682ea599bf7f1d74e085ac882dc8ab5029fd22a7f16a19aff81d146c221b827f816adf9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7BgsROit/versions/6qS08ZxA/advancementsfullscreen-mc1.21.8%2B1.3.jar'
+
+[update.modrinth]
+mod-id = '7BgsROit'
+version = '6qS08ZxA'

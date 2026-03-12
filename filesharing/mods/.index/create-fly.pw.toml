@@ -1,0 +1,16 @@
+filename = 'create-fly-1.21.8-6.0.8-2.jar'
+name = 'Create Fly'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c2ca8aa28126a633afbda779104c1405e62ae667e24d2662e68a58c0705c9d6236bb30b06cec21a47615bbb6d522ec732dc7a4e1e179dc4acebd3fc900e666fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dKvj0eNn/versions/xmqjlfxH/create-fly-1.21.8-6.0.8-2.jar'
+
+[update.modrinth]
+mod-id = 'dKvj0eNn'
+version = 'xmqjlfxH'

@@ -1,0 +1,16 @@
+filename = 'book-scroll-1.0.jar'
+name = 'Book Scroll'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '681d0605b0b999c4d1d4b176dea7123d50eb512c306b07910f0e69a387e38e57d6391de4bc91429aaac01cbd7bf793a8cd8ea64332b2847ad150373ecad81b42'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ss2JOg1D/versions/caDQOzkA/book-scroll-1.0.jar'
+
+[update.modrinth]
+mod-id = 'Ss2JOg1D'
+version = 'caDQOzkA'

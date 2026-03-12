@@ -1,0 +1,16 @@
+filename = 'selfcare-hive-1.0.5+1.21.8.jar'
+name = 'Self-Care Hive'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b8da06593579ab2aedf0a81be1a570b02fbeaff671e18d6c39d59114761a5baad6a8cd7f9a0eca5a4a14c0e0f044cc199eafe7636cef976ed97302593d76222'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K5PtS1lI/versions/33KkyfsD/selfcare-hive-1.0.5%2B1.21.8.jar'
+
+[update.modrinth]
+mod-id = 'K5PtS1lI'
+version = '33KkyfsD'
